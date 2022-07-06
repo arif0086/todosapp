@@ -7,7 +7,7 @@
 	<groupId>com.in28minutes.springboot.web</groupId>
 	<artifactId>02-todo-web-application-h2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>todo-web-application-h2</name>
 	<description>Demo project for Spring Boot</description>
 	<parent>
